@@ -24,50 +24,50 @@ body{
     top: 50px;
 }
 .img2{
-    width: 600px;
-    height: 420px;
+    width: 530px;
+    height: 370px;
+    position: relative;
+    top: -215px;
+    left: 510px;
 }
 .img1{
     position: relative;
-    top: 60px;
+    top: 50px;
     left: 70px;
+    height: 42px;
+    width: 130px;
 }
 .row1 > a{
     text-decoration: none;
     font-family: "Open Sans";
-    font-size: 15px;
+    font-size: 12px;
     margin:20px;
     position: relative;
-    left: 820px;
+    left: 830px;
     top: 35px;
     color: grey;
 }
-.img2{
-    position: relative;
-    top: -180px;
-    left: 510px;
-}
 .row2 > h2{
     font-family: "Open Sans";
-    margin-right: 905px;
+    margin-right: 805px;
     font-size: 30px;
     position: relative;
-    top: 80px;
+    top: 60px;
     left: 70px;
 }
 .row2 > p{
     font-family: "Open Sans";
-    margin-right: 900px;
+    margin-right: 830px;
     font-size: 14px;
     position: relative;
-    top: 90px;
+    top: 70px;
     left: 70px;
 }
 #email{
     height: 39px;
     width: 240px;
     position: relative;
-    top: 107px;
+    top: 87px;
     left: 70px;
     border-radius: 6px;
     border-color: black;
@@ -95,7 +95,7 @@ body{
     background-color: rgb(27, 92, 231);
     border-radius: 6px;
     position: relative;
-    top: -350px;
+    top: -320px;
     left: 330px;
     color: white;
 }
@@ -156,6 +156,7 @@ body{
     width: 320px;
     height: 190px;
     border-radius: 5px;
+    background-color: white;
 }
 .testimonial > .img5{
     height: 12px;
@@ -246,7 +247,7 @@ body{
     width: 175px;
     background-color: rgb(27, 92, 231);
     position: relative;
-    top: -80px;
+    top: -115px;
     left: 32px;
     border-radius: 5px;
     border-style: none;
